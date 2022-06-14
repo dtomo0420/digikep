@@ -1,4 +1,4 @@
-# university_projects
+# Digitális képfeldolgozás gyakorlat
 
 Minden projektet külön mappában tároltam el, ahol külön-külön minden program tartalmaz egy saját részletesebb README-t.
 
